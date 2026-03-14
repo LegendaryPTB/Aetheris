@@ -1,0 +1,5 @@
+{
+  "name": "Aetheris",
+  "description": "An advanced AI chatbot that supports image generation.",
+  "requestFramePermissions": ["camera"]
+}
